@@ -1,0 +1,3 @@
+Formulae for EPAT exam:
+
+Beta of stock = (std dev of stock/std dev of index) * correlation of stock and index
